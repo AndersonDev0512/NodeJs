@@ -1,0 +1,24 @@
+Dracula Official
+Material Icon Theme
+Zoom Bar.
+
+Npm Init =iniciar projeto Node
+
+package.json 
+
+script ()
+"start":"index.js", se tiver mais scrtipts.
+
+Express - (Pesquisar para que serveer Express. )
+Body-Parsers (Pesquisar para que serve Body-Parsers.)
+cors(Pesquisar para que serve Cors.)
+nodemon(Pesquisar para que serve nodemon.) 
+morgan(Pesquisar para que server morgan.)
+
+npm install express body-parser morgan cors nodemon 
+npm install express
+npm install body-parser
+npm install morgan
+npm install cors
+npm install nodemon
+
